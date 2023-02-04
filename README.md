@@ -1,3 +1,3 @@
 # Intelligent-Path-Planning
-## RL and GA based Obstacle Avoidance
+## Obstacle Avoidance using Dynamic Programming, Reinforcement Learning, and Genetic Algorithm
 ## GA based Travelling Salesman
